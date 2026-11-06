@@ -1,0 +1,3 @@
+function cambiarColorDeFondo(color){
+    document.body.style.backgroundColor = "color";
+}
